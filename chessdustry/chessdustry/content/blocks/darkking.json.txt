@@ -1,0 +1,10 @@
+type: wall
+category: defense
+name: Black King
+description: The most active piece on chess
+health: 50
+size: 2
+research: darkpawn
+requirements: [
+ metaglass/25
+]

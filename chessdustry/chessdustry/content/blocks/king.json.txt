@@ -1,0 +1,10 @@
+type: wall
+category: defense
+name: White King
+description: The most active piece on chess
+health: 50
+size: 2
+research: pawn
+requirements: [
+ metaglass/25
+]

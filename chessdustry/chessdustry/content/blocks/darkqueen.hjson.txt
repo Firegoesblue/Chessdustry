@@ -1,0 +1,10 @@
+type: wall
+category: defense
+name: Black Queen
+description: The powerful piece of chess
+health: 50
+size: 2
+research: black_knight
+requirements: [
+ metaglass/25
+]

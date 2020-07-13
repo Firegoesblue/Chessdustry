@@ -1,0 +1,10 @@
+type: wall
+category: defense
+name: Black Bishop
+description: Moves in diagonally
+health: 50
+size: 2
+research: darkpawn
+requirements: [
+ metaglass/25
+]
