@@ -1,0 +1,10 @@
+type: wall
+category: defense
+name: White Bishop
+description: Moves in diagonally
+health: 50
+size: 2
+research: pawn
+requirements: [
+ metaglass/25
+]
