@@ -1,2 +1,0 @@
-# Chessdustry
-chess in mindustry
