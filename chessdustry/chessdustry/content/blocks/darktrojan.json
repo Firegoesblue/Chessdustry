@@ -1,0 +1,10 @@
+type: wall
+category: defense
+name: Black Knight
+description: Moves in "L". Not to be confused as a horse 
+health: 50
+size: 2
+research: darkpawn
+requirements: [
+ metaglass/25
+]

@@ -1,0 +1,10 @@
+type: wall
+category: defense
+name: White Pawn
+description: A minor piece with unique moves
+health: 50
+size: 2
+research: titanium-wall
+requirements: [
+ metaglass/25
+]
