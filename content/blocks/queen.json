@@ -4,7 +4,7 @@ name: White Queen
 description: The powerful piece of chess
 health: 50
 size: 2
-research: knight
+research: trojan
 requirements: [
  metaglass/25
 ]

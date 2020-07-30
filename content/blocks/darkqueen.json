@@ -4,7 +4,7 @@ name: Black Queen
 description: The powerful piece of chess
 health: 50
 size: 2
-research: black_knight
+research: darktrojan
 requirements: [
  metaglass/25
 ]
